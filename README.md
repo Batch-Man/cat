@@ -1,12 +1,12 @@
 
 # Cat - by Torbjorn Granlund, Richard M. Stallman
 ## Description
-This program can Concatenate FILE(s), or standard input, to standard output.
+This program can concatenate files, or standard input to standard output.
 
 Author: Torbjorn Granlund, Richard M. Stallman
 
 ## Usage
-Call cat [OPTION] [FILE] ...
+call cat [option] [file] ...
 
 	  -A, --show-all           equivalent to -vET
 	  -b, --number-nonblank    number nonblank output lines
@@ -31,6 +31,4 @@ Report bugs to <bug-textutils@gnu.org>.
 Example: 
 `call Cat 1.txt 2.txt`
 
-
-
-www.batch-man.com
+[batch-man.com](https://batch-man.com)
