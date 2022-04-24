@@ -3,7 +3,7 @@
 ## Description
 This program can concatenate files, or standard input to standard output.
 
-Author: Torbjorn Granlund, Richard M. Stallman
+#### Authors: Torbjorn Granlund, Richard M. Stallman
 
 ## Usage
 call cat [option] [file] ...
