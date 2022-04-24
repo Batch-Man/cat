@@ -1,0 +1,2 @@
+THis file contains <Special> =Chars=
+which are ? not easily ^ handled & by % batch
