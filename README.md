@@ -1,11 +1,14 @@
 
 # Cat - by Torbjorn Granlund, Richard M. Stallman
+
 ## Description
 This program can concatenate files, or standard input to standard output.
 
 #### Authors: Torbjorn Granlund, Richard M. Stallman
 
+
 ## Usage
+
 call cat [option] [file] ...
 
 	  -A, --show-all           equivalent to -vET
@@ -24,7 +27,8 @@ call cat [option] [file] ...
 With no FILE, or when FILE is -, read standard input.
 
 	  -B, --binary             use binary writes to the console device.
-	  
+	
+	
 ## Examples
 
 We can use this plugin to concatenate files together and exploit the additional feature of showing the special characters in a file that are usually not visible by default. 
@@ -77,7 +81,6 @@ This switch, unlike -n,  will only number the lines with text, leaving the blank
 `cat -b file`
 
 ![image](https://user-images.githubusercontent.com/82807654/171326538-2959d0bf-cc3c-435a-9d21-b41f23c411dd.png)
-
 
 
 ## RELATED ARTICLE
