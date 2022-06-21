@@ -83,6 +83,8 @@ This switch, unlike -n,  will only number the lines with text, leaving the blank
 ![image](https://user-images.githubusercontent.com/82807654/171326538-2959d0bf-cc3c-435a-9d21-b41f23c411dd.png)
 
 
-## RELATED ARTICLE
+### RELATED ARTICLE
 https://batch-man.com/join-files-together/
 
+### RELATED VIDEO
+https://www.youtube.com/watch?v=MrYheztj3l8
